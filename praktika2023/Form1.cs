@@ -106,5 +106,6 @@ namespace praktika2023
             MessageBox.Show("Не все координаты были указаны", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
+
     }
 }

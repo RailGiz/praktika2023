@@ -104,6 +104,9 @@
             label47 = new Label();
             label48 = new Label();
             label49 = new Label();
+            label50 = new Label();
+            label51 = new Label();
+            label52 = new Label();
             SuspendLayout();
             // 
             // textBox1
@@ -171,42 +174,42 @@
             // 
             // textBox10
             // 
-            textBox10.Location = new Point(418, 213);
+            textBox10.Location = new Point(466, 213);
             textBox10.Name = "textBox10";
             textBox10.Size = new Size(50, 27);
             textBox10.TabIndex = 9;
             // 
             // textBox11
             // 
-            textBox11.Location = new Point(490, 213);
+            textBox11.Location = new Point(538, 213);
             textBox11.Name = "textBox11";
             textBox11.Size = new Size(50, 27);
             textBox11.TabIndex = 10;
             // 
             // textBox12
             // 
-            textBox12.Location = new Point(562, 213);
+            textBox12.Location = new Point(610, 213);
             textBox12.Name = "textBox12";
             textBox12.Size = new Size(50, 27);
             textBox12.TabIndex = 11;
             // 
             // textBox13
             // 
-            textBox13.Location = new Point(418, 277);
+            textBox13.Location = new Point(466, 277);
             textBox13.Name = "textBox13";
             textBox13.Size = new Size(50, 27);
             textBox13.TabIndex = 12;
             // 
             // textBox14
             // 
-            textBox14.Location = new Point(490, 277);
+            textBox14.Location = new Point(538, 277);
             textBox14.Name = "textBox14";
             textBox14.Size = new Size(50, 27);
             textBox14.TabIndex = 13;
             // 
             // textBox15
             // 
-            textBox15.Location = new Point(562, 277);
+            textBox15.Location = new Point(610, 277);
             textBox15.Name = "textBox15";
             textBox15.Size = new Size(50, 27);
             textBox15.TabIndex = 14;
@@ -286,7 +289,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(468, 395);
+            button2.Location = new Point(516, 395);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 25;
@@ -315,7 +318,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(490, 465);
+            label2.Location = new Point(538, 465);
             label2.Name = "label2";
             label2.Size = new Size(0, 20);
             label2.TabIndex = 28;
@@ -367,7 +370,7 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new Point(413, 182);
+            label8.Location = new Point(461, 182);
             label8.Name = "label8";
             label8.Size = new Size(199, 20);
             label8.TabIndex = 34;
@@ -403,7 +406,7 @@
             // label12
             // 
             label12.AutoSize = true;
-            label12.Location = new Point(398, 216);
+            label12.Location = new Point(446, 216);
             label12.Name = "label12";
             label12.Size = new Size(14, 20);
             label12.TabIndex = 38;
@@ -412,7 +415,7 @@
             // label13
             // 
             label13.AutoSize = true;
-            label13.Location = new Point(398, 280);
+            label13.Location = new Point(446, 280);
             label13.Name = "label13";
             label13.Size = new Size(14, 20);
             label13.TabIndex = 39;
@@ -421,7 +424,7 @@
             // label14
             // 
             label14.AutoSize = true;
-            label14.Location = new Point(359, 216);
+            label14.Location = new Point(407, 216);
             label14.Name = "label14";
             label14.Size = new Size(33, 20);
             label14.TabIndex = 40;
@@ -430,7 +433,7 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Location = new Point(360, 280);
+            label15.Location = new Point(408, 280);
             label15.Name = "label15";
             label15.Size = new Size(32, 20);
             label15.TabIndex = 41;
@@ -466,7 +469,7 @@
             // label19
             // 
             label19.AutoSize = true;
-            label19.Location = new Point(618, 216);
+            label19.Location = new Point(666, 216);
             label19.Name = "label19";
             label19.Size = new Size(14, 20);
             label19.TabIndex = 45;
@@ -475,7 +478,7 @@
             // label20
             // 
             label20.AutoSize = true;
-            label20.Location = new Point(618, 280);
+            label20.Location = new Point(666, 280);
             label20.Name = "label20";
             label20.Size = new Size(14, 20);
             label20.TabIndex = 46;
@@ -547,7 +550,7 @@
             // label28
             // 
             label28.AutoSize = true;
-            label28.Location = new Point(472, 216);
+            label28.Location = new Point(520, 216);
             label28.Name = "label28";
             label28.Size = new Size(12, 20);
             label28.TabIndex = 54;
@@ -556,7 +559,7 @@
             // label29
             // 
             label29.AutoSize = true;
-            label29.Location = new Point(544, 216);
+            label29.Location = new Point(592, 216);
             label29.Name = "label29";
             label29.Size = new Size(12, 20);
             label29.TabIndex = 55;
@@ -565,7 +568,7 @@
             // label30
             // 
             label30.AutoSize = true;
-            label30.Location = new Point(472, 280);
+            label30.Location = new Point(520, 280);
             label30.Name = "label30";
             label30.Size = new Size(12, 20);
             label30.TabIndex = 56;
@@ -574,7 +577,7 @@
             // label31
             // 
             label31.AutoSize = true;
-            label31.Location = new Point(544, 280);
+            label31.Location = new Point(592, 280);
             label31.Name = "label31";
             label31.Size = new Size(12, 20);
             label31.TabIndex = 57;
@@ -717,7 +720,7 @@
             // label47
             // 
             label47.AutoSize = true;
-            label47.Location = new Point(436, 465);
+            label47.Location = new Point(484, 465);
             label47.Name = "label47";
             label47.Size = new Size(51, 20);
             label47.TabIndex = 75;
@@ -735,17 +738,51 @@
             // label49
             // 
             label49.AutoSize = true;
-            label49.Location = new Point(407, 43);
+            label49.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
+            label49.Location = new Point(450, 9);
             label49.Name = "label49";
-            label49.Size = new Size(111, 20);
+            label49.Size = new Size(219, 41);
             label49.TabIndex = 77;
             label49.Text = "КАЛЬКУЛЯТОР";
+            // 
+            // label50
+            // 
+            label50.AutoSize = true;
+            label50.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label50.Location = new Point(37, 132);
+            label50.Name = "label50";
+            label50.Size = new Size(238, 25);
+            label50.TabIndex = 78;
+            label50.Text = "ПЛОЩАДЬ ТРЕУГОЛЬНИКА\r\n";
+            // 
+            // label51
+            // 
+            label51.AutoSize = true;
+            label51.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label51.Location = new Point(417, 132);
+            label51.Name = "label51";
+            label51.Size = new Size(284, 25);
+            label51.TabIndex = 79;
+            label51.Text = "РАССТОЯНИЕ МЕЖДУ ТОЧКАМИ";
+            // 
+            // label52
+            // 
+            label52.AutoSize = true;
+            label52.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point);
+            label52.Location = new Point(766, 132);
+            label52.Name = "label52";
+            label52.Size = new Size(329, 25);
+            label52.TabIndex = 80;
+            label52.Text = "РАССТОЯНИЕ ОТ ТОЧКИ ДО ПРЯМОЙ";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1152, 543);
+            ClientSize = new Size(1118, 543);
+            Controls.Add(label52);
+            Controls.Add(label51);
+            Controls.Add(label50);
             Controls.Add(label49);
             Controls.Add(label48);
             Controls.Add(label47);
@@ -822,6 +859,8 @@
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -906,5 +945,8 @@
         private Label label47;
         private Label label48;
         private Label label49;
+        private Label label50;
+        private Label label51;
+        private Label label52;
     }
 }
