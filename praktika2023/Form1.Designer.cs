@@ -1,6 +1,6 @@
 ﻿namespace praktika2023
 {
-    partial class calc
+    partial class Form1
     {
         /// <summary>
         ///  Required designer variable.
@@ -775,7 +775,7 @@
             label52.TabIndex = 80;
             label52.Text = "РАССТОЯНИЕ ОТ ТОЧКИ ДО ПРЯМОЙ";
             // 
-            // calc
+            // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -861,7 +861,7 @@
             Controls.Add(textBox1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
-            Name = "calc";
+            Name = "Form1";
             Text = "CALC";
             ResumeLayout(false);
             PerformLayout();

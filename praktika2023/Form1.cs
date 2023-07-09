@@ -1,8 +1,8 @@
 namespace praktika2023
 {
-    public partial class calc : Form
+    public partial class Form1 : Form
     {
-        public calc()
+        public Form1()
         {
             InitializeComponent();
         }
